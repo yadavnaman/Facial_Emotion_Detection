@@ -2,6 +2,7 @@ from CNN import CNNmodel
 import pandas as pd
 import numpy as np
 import keras.optimizers as opt
+#incorporated PCA
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
